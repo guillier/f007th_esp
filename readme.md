@@ -2,5 +2,5 @@
 
 Code is AS-IS without any warranty of any kind...
 
-Corresponding blog entry: http://www.guillier.org/blog/2022/07/???/
+Corresponding blog entry: https://www.guillier.org/blog/2022/07/thermometers/
 
